@@ -2,7 +2,7 @@ Hello! I am a undergraduate student from South Korea, interested in attention me
 
 ### Projects
 - Pure ML
-  - Multimodal Reasoning with RWKV
+  - Multimodal Reasoning with RWKV7, 2025
 - ML for Physics
   - Symbolic Regression of `convexinv`, 2024
 - ML for Mathematics
