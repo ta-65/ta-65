@@ -1,4 +1,4 @@
-Hello! I am a undergraduate student from South Korea, interested in attention mechanism.
+Hello! I am a high-school student from South Korea, interested in attention mechanism. I upload my projects that accompany programming, entire projects are listed at my blog. 
 
 ## Stacks
 - Programming Languages : 
@@ -7,11 +7,10 @@ Hello! I am a undergraduate student from South Korea, interested in attention me
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)
 - Misc
 
-# On-Going Projects
-1. HFT Trader
-2. Fast, Distrbuted Parallel Server with Elixir
+## On-Going Projects
+1. Rapid Distrubted HFT Trader with Elixir
 
-### High-School Projects
+## High-School Projects
 1. Multimodal Reasoning Chatbot with RWKV7, 2025
 2. Highly-Accurate Search of Discrete Dynamical Systems with Monte Carlo Tree Search, 2024
 
