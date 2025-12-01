@@ -1,4 +1,4 @@
-Hello! I am a high-school student from South Korea, interested in attention mechanism. I upload my projects that accompany programming, entire projects are listed at my blog. 
+Hello! I'm a high-school student from South Korea with an interest in attention mechanisms. I share my programming projects here, and you can find a complete list of my work on my blog.
 
 ## Stacks
 
