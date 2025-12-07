@@ -1,4 +1,4 @@
-Hello! I'm a high-school student from South Korea with interests in memory modules, attention mechanism, and medical AI. I share my programming projects here, and you can find a complete list of my work on my blog.
+Hello! I'm a high-school student from South Korea with interests in . I share my programming projects here, and you can find a complete list of my work on my blog.
 
 ## Stacks
 
