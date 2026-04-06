@@ -64,5 +64,4 @@ I am deeply interested in efficient ML and MEMS.
 
 [![Gmail](https://img.shields.io/badge/Gmail-seohyeon7180%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seohyeon7180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seohyeon%20Chang-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seohyeon7180)
-[![X](https://img.shields.io/badge/X-%40seohyeon7180-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/seohyeon7180)
 [![Discord](https://img.shields.io/badge/Discord-rrrref-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1366704950716923975)
