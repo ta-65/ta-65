@@ -16,8 +16,7 @@
 <div align="center">
 Hello!
 I am an undergraduate student majoring in semiconductor system engineering at KAIST.
-  
-I am deeply interested in efficient ML and MEMS.
+I am studying digital systems, and deeply interested in efficient machine learning.
 <br/>
 
 </div>
