@@ -1,12 +1,17 @@
 ## Hi there 👋
 <div align="center">
 Hello!
-I am an undergraduate student majoring in semiconductor system engineering at KAIST. I am interested in photonics and machine learning.
+I am an undergraduate student majoring in semiconductor system engineering and mathematical science at KAIST. 
+  
+I am interested in nanophotonics and machine learning.
 <br/>
 
 </div>
 
 ---
+
+yoninf@kaist.ac.kr
+
 
 ### 🛠 Tech Stack 
 - AI/ML, Parallel programming : 
